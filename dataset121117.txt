@@ -1,0 +1,48 @@
+power_pam
+0b0
+cpu_uptime
+153629.40625
+humid
+31.998199462890625
+timestamp
+2017-12-13 20:15:13.882730
+mac
+['\x00', '\x08', '\xdc', '\x00', '\x00', 'O', '\x00']
+power_snapv2_0_1
+0b0
+tempTop
+25.375
+power_snap_relay
+0b0
+tempMid
+23.625
+tempHumid
+24.740028381347656
+power_snapv2_2_3
+0b0
+power_fem
+0b0
+power_pam
+0b0
+cpu_uptime
+153929.09375
+humid
+32.394927978515625
+timestamp
+2017-12-13 20:20:13.599951
+mac
+['\x00', '\x08', '\xdc', '\x00', '\x00', 'O', '\x00']
+power_snapv2_0_1
+0b0
+tempTop
+25.25
+power_snap_relay
+0b0
+tempMid
+23.5
+tempHumid
+24.675682067871094
+power_snapv2_2_3
+0b0
+power_fem
+0b0
